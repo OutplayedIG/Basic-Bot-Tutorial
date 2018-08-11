@@ -1,8 +1,9 @@
 #Put your bots token here
-TOKEN = ""
+TOKEN = "NDc0MzYwMzI3ODc4ODY5MDA0.DlCofw.dgvaGJQWDB8COEegN_GBbXpBK14"
 
 #Your desired prefix
-PREFIX = ""
+PREFIX = "."
 
 #Your bots name
-BOTNAME = ""
+BOTNAME = "Frost Bot"
+
